@@ -1,4 +1,4 @@
-##**Data Analyst Portfolio**
+#**Data Analyst Portfolio**
 
 Welcome to my Data Analyst portfolio, where I showcase my skills and experience in data analysis, visualization, and interpretation. This portfolio is a collection of projects that demonstrate my ability to work with data and extract insights that inform business decisions.
 
